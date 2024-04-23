@@ -1,2 +1,2 @@
-# nalladin.github.io
+# dinakar.github.io
 Dinakar's portfolio of experiments.
